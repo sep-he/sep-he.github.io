@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "DSCI 521: Welcome to Sepehr's website"
